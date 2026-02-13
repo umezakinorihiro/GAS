@@ -1,6 +1,10 @@
-# GAS
+# 概要
 GASとgeminiを利用してレシートをスプレッドシートに追加するコードの一部です。
 scriptIdが入っているコード（.clasp.json）はアップしておりません。
+
+# 注意  
+スプレッドシートのappScriptにGEMINI_API_KEYとSHEET_IDを追加してください。
+それぞれ個人的に取得する必要があるため、取得方法はネットで調べてください。
 
 # GAS + TypeScript + clasp サンプル（Upload.html）
 
@@ -22,6 +26,4 @@ npm i -g @google/clasp
 clasp -v
 
 ---
-#　注意
-スプレッドシートのappScriptにGEMINI_API_KEYとSHEET_IDを追加してください。
-それぞれ個人的に取得する必要があるため、取得方法はネットで調べてください。
+
