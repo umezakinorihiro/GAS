@@ -4,7 +4,8 @@ scriptIdが入っているコード（.clasp.json）はアップしておりま�
 
 # 注意  
 スプレッドシートのappScriptにGEMINI_API_KEYとSHEET_IDを追加してください。
-それぞれ個人的に取得する必要があるため、取得方法はネットで調べてください。
+それぞれ個人的に取得する必要があるため、取得方法はネットで調べてください。　　
+main.jsはmain.tsからファイル生成されるのでダウンロードしなくてもいいです。
 
 # GAS + TypeScript + clasp サンプル（Upload.html）
 
