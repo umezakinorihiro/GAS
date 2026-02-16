@@ -16,7 +16,7 @@ Google Apps Script を TypeScript で開発し、`clasp` で push する構成�
 
 ## 1. 前提条件
 
-- Node.js（推奨: 18以上）
+- Node.js
 - Googleアカウント
 - Google Apps Script API を有効化
 - clasp をインストール
